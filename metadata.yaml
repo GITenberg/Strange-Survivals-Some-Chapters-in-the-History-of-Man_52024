@@ -1,0 +1,33 @@
+_repo: Strange-Survivals-Some-Chapters-in-the-History-of-Man_52024
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Gould, Sabine Baring
+    - Baring-Gould, Sabine
+    - Gould, S. Baring
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+description: ''
+gutenberg_issued: '2016-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Superstition'
+- !lcsh 'Manners and customs -- Origin'
+- GITenberg
+tableOfContents: On foundations -- On gables -- Ovens -- Beds -- Striking a light
+  -- Umbrellas -- Dolls -- Revivals -- Broadside ballads -- Riddles -- The gallows
+  -- Holes -- Raising the hat.
+title: 'Strange Survivals: Some Chapters in the History of Man'
+url: http://www.gutenberg.org/ebooks/52024
